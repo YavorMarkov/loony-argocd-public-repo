@@ -1,4 +1,4 @@
-iVersion: apps/v1
+Version: apps/v1
 kind: Deployment
 metadata:
   labels:
